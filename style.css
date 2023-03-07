@@ -1,0 +1,53 @@
+.heading{
+ margin-left:500px ;
+ font-size:30px;
+ font-weight: 500;
+ color: white;
+}
+.nav{
+    background-color: rgb(76, 6, 24);
+}
+.container{
+    background-color: rgb(103, 100, 104);
+}
+.bd {
+        background-image: linear-gradient(to right, rgb(191, 198, 151) , rgb(73, 73, 71));
+}
+.display{
+    height:500px;
+    width:400px;
+    margin-bottom: 10px;;
+}
+#weatherclick{
+    margin-left: 100px; 
+    margin-top:30px;
+}
+
+.hgt{
+    height: 250px;;
+}
+
+.opt{
+margin-right: 500px;
+margin-left: 450px;;
+width:400px;
+margin-bottom: 30px;    
+text-align: center;
+padding: 15px;
+}
+.nme{
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    font-size: larger;
+    font-weight:bolder;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
